@@ -32,3 +32,8 @@ Several constraints were placed on the selection of these instances from a large
 ### Web App URL
 https://tejasdl-diabetes-prediction-web-app-diab-pred-webapp-bwlmsv.streamlit.app/
 
+### Sample Screen
+
+
+
+![Screenshot 2022-12-17 100321](https://user-images.githubusercontent.com/117836811/208225018-a227bf7b-db2c-4e61-a5c6-8d8d8971a47f.png)
